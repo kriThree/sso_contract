@@ -3,5 +3,5 @@ package maina
 import "log"
 
 func B() {
-	log.Println("bb")
+	log.Println("bb1")
 }
